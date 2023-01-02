@@ -1,17 +1,16 @@
-### Hi there :wave:
-<!--
-**dghousi/dghousi** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- :telescope: I’m currently working on ...
-- :seedling: I’m currently learning ...
-- :dancers: I’m looking to collaborate on ...
-- :thinking_face: I’m looking for help with ...
-- :speech_balloon: Ask me about ...
-- :mailbox: How to reach me: ...
-- :smile: Pronouns: ...
-- :zap: Fun fact: ...
--->
-![Ghousi's github stats](https://github-readme-stats.vercel.app/api?username=dghousi&show_icons=true&count_private=true&theme=radical)
+<h1 align="center">
+  My <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="45"> hub's statistics
+</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dghousi&layout=compact&hide=css,html)](https://github.com/dghousi/github-readme-stats)
+<p align="center" background-color="red"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/dghousi/count.svg" />
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=dghousi&theme=monokai-metallian&hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api?username=dghousi&show_icons=true&theme=onedark&bg_color=1F222E">
+</p>
+
+![dghousi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dghousi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
